@@ -1,4 +1,4 @@
-# Learning GraphQL :tada:
+# Learning GraphQL :book:
 
 - [Chapter 1: Introduction](/../../tree/chapter-1/CHAPTER1.MD)
 - [Chapter 2: Hello GraphQL](../../tree/chapter-2/CHAPTER2.MD) 
