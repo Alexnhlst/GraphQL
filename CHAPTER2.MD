@@ -1,4 +1,4 @@
-# Learning GraphQL :tada:
+# Learning GraphQL :book:
 
 ## Chapter 2 - Hello GraphQL
 
@@ -18,8 +18,6 @@
   9. [GraphQL queries over HTTP](#graphql-queries-over-http)
 
 </details>
-
----
 
 ## First query
 
@@ -145,3 +143,21 @@ fragment commonOrgInfo on Organization {
 ```
 
 ---
+
+## Union types and interfaces
+
+## Interfaces
+
+## Discriminated unions
+
+---
+
+## Pagination
+
+---
+
+## Mutations
+
+---
+
+## GraphQL queries over HTTP
