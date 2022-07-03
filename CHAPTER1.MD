@@ -1,5 +1,7 @@
 # Learning GraphQL :tada:
 
+## Chapter 1 - Introduction
+
 #### **What is GraphQL**
 
 > "A query language for your API" - The GraphQL Foundation
