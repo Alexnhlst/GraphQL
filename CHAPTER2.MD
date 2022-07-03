@@ -2,19 +2,25 @@
 
 ## Chapter 2 - Hello GraphQL
 
-### Table of Contents
-1. [First query](#first-query)
-2. [Named queries](#named-queries)
-3. [Variables](#variables)
-4. [Multiple queries and renaming result fields](#multiple-queries-and-renaming-result-fields)
-5. [Fragments](#fragments)
-6. [Union types and interfaces](#union-types-and-interfaces)
-    - [Interfaces](#interfaces)
-    - [Discriminated unions](#discriminated-unions)
-7. [Pagination](#pagination)
-8. [Mutations](#mutations)
-9. [GraphQL queries over HTTP](#graphql-queries-over-http)
+<details>
+  <summary>Table of Contents</summary>
+
+  1. [First query](#first-query)
+  2. [Named queries](#named-queries)
+  3. [Variables](#variables)
+  4. [Multiple queries and renaming result fields](#multiple-queries-and-renaming-result-fields)
+  5. [Fragments](#fragments)
+  6. [Union types and interfaces](#union-types-and-interfaces)
+      - [Interfaces](#interfaces)
+      - [Discriminated unions](#discriminated-unions)
+  7. [Pagination](#pagination)
+  8. [Mutations](#mutations)
+  9. [GraphQL queries over HTTP](#graphql-queries-over-http)
+
+</details>
+
 ---
+
 ## First query
 
 GraphQL queries look a little like JSON
