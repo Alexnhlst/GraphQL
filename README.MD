@@ -7,9 +7,10 @@
 <details>
     <summary>Other skills i'm learning and improving in the meanwhile</summary>
 
-    - Improve Markdown knowledge  
-    - Improve git and github knowledge
-    - Improve Linux CLI knowledge
+    * Improve Markdown knowledge  
+    * Improve git and github knowledge
+    * Improve Linux CLI knowledge
+    
 </details>
 
 Following [Fullstack GraphQL book](https://www.newline.co/fullstack-graphql)
